@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.1">
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\.classpath">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\about.html">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\build.properties">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\ESH-INF\binding\binding.xml">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\ESH-INF\thing\thing-types.xml">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\META-INF\MANIFEST.MF">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="11" severity="warning" message="The version of the package com.google.common.collect should not be specified" source="org.openhab.tools.analysis.checkstyle.ManifestPackageVersionCheck"/>
+<error line="12" severity="warning" message="The version of the package org.apache.commons.io should not be specified" source="org.openhab.tools.analysis.checkstyle.ManifestPackageVersionCheck"/>
+<error line="13" severity="warning" message="The version of the package org.apache.commons.lang should not be specified" source="org.openhab.tools.analysis.checkstyle.ManifestPackageVersionCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\OSGI-INF\.gitignore">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\pom.xml">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\README.md">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\src\main\java\org\openhab\binding\wroclawpublictransportannouncer\internal\data\DataDownloader.java">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\src\main\java\org\openhab\binding\wroclawpublictransportannouncer\internal\data\Record.java">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\src\main\java\org\openhab\binding\wroclawpublictransportannouncer\internal\data\StopTable.java">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\src\main\java\org\openhab\binding\wroclawpublictransportannouncer\internal\data\Time.java">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\src\main\java\org\openhab\binding\wroclawpublictransportannouncer\internal\WroclawPublicTransportAnnouncerBindingConstants.java">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\src\main\java\org\openhab\binding\wroclawpublictransportannouncer\internal\WroclawPublicTransportAnnouncerConfiguration.java">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\src\main\java\org\openhab\binding\wroclawpublictransportannouncer\internal\WroclawPublicTransportAnnouncerHandler.java">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+<file name="C:\Users\Michal\openhab2-master\git\openhab2-addons\addons\binding\org.openhab.binding.wroclawpublictransportannouncer\src\main\java\org\openhab\binding\wroclawpublictransportannouncer\internal\WroclawPublicTransportAnnouncerHandlerFactory.java">
+<error line="0" severity="info" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+</file>
+</checkstyle>

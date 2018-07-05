@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><sca xmlns:functx="http://www.functx.com">
+   <file name=".binding.wroclawpublictransportannouncer\.classpath">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name=".binding.wroclawpublictransportannouncer\about.html">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name=".binding.wroclawpublictransportannouncer\build.properties">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name=".binding.wroclawpublictransportannouncer\ESH-INF\binding\binding.xml">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name=".binding.wroclawpublictransportannouncer\ESH-INF\thing\thing-types.xml">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name=".binding.wroclawpublictransportannouncer\META-INF\MANIFEST.MF">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+      <message tool="checkstyle" line="11" message="The version of the package com.google.common.collect should not be specified" priority="2" rule="ManifestPackageVersionCheck" category="style"/>
+      <message tool="checkstyle" line="12" message="The version of the package org.apache.commons.io should not be specified" priority="2" rule="ManifestPackageVersionCheck" category="style"/>
+      <message tool="checkstyle" line="13" message="The version of the package org.apache.commons.lang should not be specified" priority="2" rule="ManifestPackageVersionCheck" category="style"/>
+   </file>
+   <file name=".binding.wroclawpublictransportannouncer\OSGI-INF\.gitignore">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name=".binding.wroclawpublictransportannouncer\pom.xml">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name=".binding.wroclawpublictransportannouncer\README.md">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name="org.openhab.binding.wroclawpublictransportannouncer.internal.data.DataDownloader.java">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name="org.openhab.binding.wroclawpublictransportannouncer.internal.data.Record.java">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name="org.openhab.binding.wroclawpublictransportannouncer.internal.data.StopTable.java">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name="org.openhab.binding.wroclawpublictransportannouncer.internal.data.Time.java">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name="org.openhab.binding.wroclawpublictransportannouncer.internal.WroclawPublicTransportAnnouncerBindingConstants.java">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name="org.openhab.binding.wroclawpublictransportannouncer.internal.WroclawPublicTransportAnnouncerConfiguration.java">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name="org.openhab.binding.wroclawpublictransportannouncer.internal.WroclawPublicTransportAnnouncerHandler.java">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+   <file name="org.openhab.binding.wroclawpublictransportannouncer.internal.WroclawPublicTransportAnnouncerHandlerFactory.java">
+      <message tool="checkstyle" line="0" message="File does not end with a newline." priority="3" rule="NewlineAtEndOfFileCheck" category="style"/>
+   </file>
+</sca>

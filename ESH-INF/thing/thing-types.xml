@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thing:thing-descriptions bindingId="wroclawpublictransportannouncer"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:thing="http://eclipse.org/smarthome/schemas/thing-description/v1.0.0"
+	xsi:schemaLocation="http://eclipse.org/smarthome/schemas/thing-description/v1.0.0 http://eclipse.org/smarthome/schemas/thing-description-1.0.0.xsd">
+
+	<!-- Buses And Trams Display Thing -->
+	<thing-type id="departures">
+		<label>Departures</label>
+		<description>Soonest buses and trams departures from the choosen stop in Wroclaw</description>
+
+		<channels>
+			<channel id="firstDeparture" typeId="departure" />
+			<channel id="secondDeparture" typeId="departure" />
+			<channel id="thirdDeparture" typeId="departure" />
+			<channel id="fourthDeparture" typeId="departure" />
+			<channel id="fifthDeparture" typeId="departure" />
+			<channel id="sixthDeparture" typeId="departure" />
+			<channel id="seventhDeparture" typeId="departure" />
+			<channel id="eightDeparture" typeId="departure" />
+			<channel id="ninthDeparture" typeId="departure" />
+			<channel id="tenthDeparture" typeId="departure" />
+			<channel id="eleventhDeparture" typeId="departure" />
+			<channel id="twelfthDeparture" typeId="departure" />
+			<channel id="thirteenthDeparture" typeId="departure" />
+			<channel id="fourteenthDeparture" typeId="departure" />
+			<channel id="fifteenthDeparture" typeId="departure" />
+			<channel id="sixteenthDeparture" typeId="departure" />
+			<channel id="seventeenthDeparture" typeId="departure" />
+			<channel id="eighteenthDeparture" typeId="departure" />
+			<channel id="nineteenthDeparture" typeId="departure" />
+			<channel id="twentiethDeparture" typeId="departure" />
+		</channels>
+
+		<config-description>
+			<parameter name="stopName" type="text" required="true">
+				<label>Stop name</label>
+				<description>Name of a bus or tram stop from which departures should be displayed</description>
+			</parameter>
+		</config-description>
+
+	</thing-type>
+
+	<!-- Departures Channel Type -->
+	<channel-type id="departure">
+		<item-type>String</item-type>
+		<label>Departure</label>
+		<description>One of the soonest departures</description>
+	</channel-type>
+
+</thing:thing-descriptions>
